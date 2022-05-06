@@ -13,9 +13,7 @@ const InputField = () => {
             noValidate
             autoComplete="off"
         >
-        <TextField id="outlined-basic" label="Outlined" variant="outlined" />
-        
-        
+            <TextField id="outlined-basic" label="Outlined" variant="outlined" />
         </Box>
     );
 
